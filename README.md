@@ -1,4 +1,3 @@
-# TeleCallPredictor
 # TeleCallPredictor - Exploratory Data Analysis (EDA)
 
 The **TeleCallPredictor** project focuses on understanding and predicting customer responses to telemarketing calls. Through this Exploratory Data Analysis (EDA), we aim to uncover insights into customer behavior, identify key predictors of successful calls, and guide feature engineering and model development.
