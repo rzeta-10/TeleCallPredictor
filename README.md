@@ -33,7 +33,7 @@ The **TeleCallPredictor** project focuses on understanding and predicting custom
 
 To replicate this EDA, you’ll need:
 - **Python 3.7+**
-- Libraries: `pandas`, `matplotlib`, `seaborn`, and `scipy`
+- Libraries: `pandas`, `matplotlib`, `seaborn`
 
 ### Installation
 
